@@ -1,3 +1,6 @@
+# verificarElementos(): Pega elementos em uma página e me retorna
+# conferirElementosExcel(): Pega os elementos de cada site e compara as informações que faltam
+
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
